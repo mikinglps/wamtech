@@ -1,0 +1,8 @@
+.button_edit{
+    background: rgb(54, 125, 203);
+    display: inline-block;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
